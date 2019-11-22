@@ -1,4 +1,5 @@
 # labspy03
+Latihan 1 menginput nilai n, jumlah dimasukkan random maka akan menampilkan jumlah terbesarnya dengan print selesai yaitu 0
 
 ![l111](https://user-images.githubusercontent.com/56709070/69412424-6cf12600-0d41-11ea-9a82-0a2d37add3f0.PNG)
 
